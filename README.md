@@ -5,8 +5,7 @@
 
 # Usage
 
-- `git clone https://github.com/AshKetchumza/node-express-sequalize-postgresql-travis && cd node-express-sequalize-postgresql-travis`
-- create `/database/config/env.js` file to meet the needs of `/database/config/config.js`
+- `git clone https://github.com/AshKetchumza/node-express-sequalize-postgresql-travis && cd node-express-sequalize-postgresql-travis`- 
 - Create two Postgres databases one for test and the other for development and update `/database/config/env.js` where applicable
 - `npm install`
 - `npm start` to run development server with nodemon
