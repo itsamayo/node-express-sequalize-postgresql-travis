@@ -1,4 +1,4 @@
-# Node.js, Express.js, PostgreSQL, Sequelize & Travis CI template
+# Node.js, Express.js, PostgreSQL, Sequelize & Travis CI  - An API template
 
 
 # Usage
