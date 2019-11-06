@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/AshKetchumza/node-express-sequalize-postgresql-travis.svg?branch=master)](https://travis-ci.com/AshKetchumza/node-express-sequalize-postgresql-travis)
+
 # Node.js, Express.js, PostgreSQL, Sequelize & Travis CI  - An API template
 
 
